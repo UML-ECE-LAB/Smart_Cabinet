@@ -1,0 +1,7 @@
+Open Command line in the "Smart_Cabinet" directory
+
+To run the Smart Cabinet scripts:
+Inventory Application:
+    python3 main.py
+Camera scripts:
+    python3 camera.py
